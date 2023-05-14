@@ -116,7 +116,7 @@
 
                         <input type="password"
                                name="password"
-                               placeholder="Password"
+                               placeholder="Passd"
                                class="border border-gray-300/50 p-1 rounded focus:outline-none"/>
                     </div>
                 </div>
